@@ -16,7 +16,7 @@
 
 Insta Hacker is a python based Script. You can use this script for hacking Instagram (bruteforce). 
 
-![](https://github.com/Stephin-Franklin/Hack-Insta/blob/master/Screenshot_20191207-024415.png)
+![](https://github.com/icammaci/Hack-Insta/blob/master/Screenshot_20191207-024415.png)
 
 ### INSTA H4CK3R is available for
 
@@ -38,7 +38,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/Stephin-Franklin/Hack-Insta
+$ git clone https://github.com/icammaci/Hack-Insta
 ```
 ```
 $ ls
@@ -71,7 +71,7 @@ $ python2 hackinsta.py
 ```
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/AnonymousTim3
+ https://www.youtube.com/channel/UCP_pGBqwyn-Tu2Fh1vh1umQ
 
 
 ### Warning
